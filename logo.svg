@@ -1,0 +1,19 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <title>Logo</title>
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_12" d="m607.95,408.74851l0.38197,0l0.11803,-0.54067l0.11803,0.54067l0.38197,0l-0.30902,0.33415l0.11804,0.54067l-0.30902,-0.33416l-0.30902,0.33416l0.11804,-0.54067l-0.30902,-0.33415z" stroke-opacity="0" stroke="#0f0f00" fill="#fff"/>
+  <g id="svg_13">
+   <rect rx="20" id="svg_1" height="445.19479" width="783.4048" y="81.4167" x="5.46451" stroke="#fff" fill="#000"/>
+   <text transform="matrix(9.58694, 0, 0, 9.58694, -3830.75, -2433.01)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="50" stroke-width="0" id="svg_5" y="302.99659" x="400.98481" stroke="#000" fill="#ffffff">B</text>
+   <text transform="matrix(2.60337, 0, 0, 2.60337, -696.542, -198.344)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="50" stroke-width="0" id="svg_3" y="254.0282" x="487.03053" stroke="#000" fill="#ffffff">fr</text>
+   <text transform="matrix(9.58694, 0, 0, 9.58694, -3830.75, -2433.01)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="50" stroke-width="0" id="svg_6" y="302.99659" x="427.28837" stroke="#000" fill="#ffffff">Z</text>
+   <text transform="matrix(2.42598, 0, 0, 2.42598, -820.233, -242.318)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="50" stroke-width="0" id="svg_8" y="233.51865" x="448.59472" stroke="#000" fill="#ffffff">-</text>
+   <text transform="matrix(2.42598, 0, 0, 2.42598, -820.233, -242.318)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="50" stroke-width="0" id="svg_9" y="233.51865" x="448.59472" stroke="#000" fill="#ffffff">-</text>
+   <text transform="matrix(2.42598, 0, 0, 2.42598, -820.234, -242.32)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="50" stroke-width="0" id="svg_7" y="230.67352" x="448.59472" stroke="#000" fill="#ffffff">-</text>
+   <text transform="matrix(2.60337, 0, 0, 2.60337, -696.542, -198.344)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="50" stroke-width="0" id="svg_10" y="254.0282" x="465.82034" stroke="#000" fill="#ffffff">.</text>
+   <path stroke-opacity="0" id="svg_11" d="m536.81054,189.05099l133.29231,-84.50851l-13.60889,-25.66611l102.98561,1.43854l33.29229,-1.50849l1.00919,33.25525l-1.01228,67.4372l-5.68161,18.48015l-60.98956,142.25728l-34.60675,-145.66747l-154.68032,-5.51784z" stroke="#0f0f00" fill="#fff"/>
+  </g>
+ </g>
+</svg>
