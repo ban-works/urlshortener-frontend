@@ -4,20 +4,20 @@ import Form from "./components/Form";
 
 export const Content = () => (
   <Box>
-    <Container fluid justify="center" >
-    <Col md={4}>
+    <Container>
+      <Col md={4}>
+        <Row justify="center">
+          <Text h1  css={{textAlign: 'center'}}>
+            Crée ton shortlink B-Z.fr <b>gratuitement</b>{"  "} 🪂
 
-        <Text h1 textAlign="center">
-          Créez votre lien B-Z.fr <b>gratuitement</b>, en un clic !
-        </Text>
-        <Text h3>Collez votre lien ci-dessous !</Text>
-
-      <Spacer y={0.5} />
-    </Col>
+          </Text>
+        </Row>
+        <Row justify="center">
+          <Text h3>Colle ton lien ci-dessous :</Text>
+        </Row>
+      </Col>
 
       <Form></Form>
-      
     </Container>
-  
   </Box>
 );
